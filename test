@@ -1,0 +1,16 @@
+"Results": [
+    {
+       "_ValidFrom": "2013-02-07T02:15:58.719Z",
+       "_ValidTo": "2013-02-07T03:17:59.444Z",
+       "ObjectID": 10448843790,
+       "State": "Submitted",
+       "FormattedID": "DE16129"
+    },
+    {
+       "_ValidFrom": "2013-02-07T03:17:59.444Z",
+       "_ValidTo": "9999-01-01T00:00:00.000Z",
+       "ObjectID": 10448843790,
+       "State": "Open",
+       "FormattedID": "DE16129"
+    }
+]
